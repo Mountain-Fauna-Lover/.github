@@ -2,13 +2,17 @@
 
 <div align="center">
 
-![Wildlife Photography](https://img.shields.io/badge/Focus-Wildlife%20Photography-4CAF50?style=flat-square)
-![Mountain Content](https://img.shields.io/badge/Content-Alpine%20Nature-2196F3?style=flat-square)
-![Conservation](https://img.shields.io/badge/Mission-Conservation-FF9800?style=flat-square)
+![Logo](logo.jpg)
 
-**Documenting Alpine Wildlife and Mountain Ecosystems**
+![Banner](brackground.jpg)
 
-*Professional wildlife content creation combining nature photography, conservation education, and authentic storytelling*
+![Fotografia Naturalistica](https://img.shields.io/badge/Focus-Fotografia%20Naturalistica-4CAF50?style=flat-square)
+![Contenuti Montani](https://img.shields.io/badge/Contenuti-Natura%20Alpina-2196F3?style=flat-square)
+![Conservazione](https://img.shields.io/badge/Missione-Conservazione-FF9800?style=flat-square)
+
+**Documentare la Fauna Alpina e gli Ecosistemi Montani**
+
+*Creazione professionale di contenuti naturalistici che uniscono fotografia naturalistica, educazione alla conservazione e storytelling autentico*
 
 [![YouTube](https://img.shields.io/badge/YouTube-%40mountainfaunalover-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mountainfaunalover)
 [![Instagram](https://img.shields.io/badge/Instagram-%40mountainfaunalover-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mountainfaunalover)
@@ -18,408 +22,408 @@
 
 ---
 
-## About the Project
+## Il Progetto
 
-**mountain&faunalover** is a professional wildlife content creation project dedicated to documenting and celebrating the extraordinary biodiversity of alpine ecosystems. Through high-quality photography, engaging videography, and educational storytelling, this project aims to raise awareness about mountain fauna conservation while inspiring people to connect with nature responsibly.
+**mountain&faunalover** è un progetto professionale di creazione di contenuti naturalistici dedicato alla documentazione e alla celebrazione della straordinaria biodiversità degli ecosistemi alpini. Attraverso fotografia di alta qualità, videografia coinvolgente e storytelling educativo, questo progetto mira a sensibilizzare sulla conservazione della fauna montana ispirando le persone a connettersi con la natura in modo responsabile.
 
-### Mission Statement
+### Dichiarazione di Missione
 
-To document, educate, and inspire action for the conservation of alpine wildlife and mountain ecosystems through authentic, ethical, and scientifically-informed content creation.
+Documentare, educare e ispirare azioni per la conservazione della fauna alpina e degli ecosistemi montani attraverso la creazione di contenuti autentici, etici e scientificamente informati.
 
-### Core Values
+### Valori Fondamentali
 
-- **Ethical Wildlife Documentation**: Zero disturbance to animals and their natural behavior
-- **Scientific Accuracy**: Fact-based content grounded in ecological and biological research
-- **Conservation First**: Every piece of content serves the broader goal of environmental protection
-- **Leave No Trace**: Responsible outdoor practices in all field activities
-- **Authentic Storytelling**: Genuine experiences shared with transparency and passion
-
----
-
-## Content Overview
-
-### YouTube: Long-Form Documentaries & Educational Content
-
-The YouTube channel features in-depth wildlife documentaries, educational series, and comprehensive guides exploring alpine fauna and mountain ecosystems.
-
-**Content Categories:**
-- **Wildlife Documentaries**: Detailed observations of alpine species in their natural habitat
-- **Species Spotlights**: Deep dives into individual species behavior, biology, and ecology
-- **Conservation Stories**: Highlighting conservation efforts and environmental challenges
-- **Photography Behind-the-Scenes**: Technical insights into wildlife photography
-- **Seasonal Wildlife**: Documenting behavioral changes across different seasons
-- **Mountain Expeditions**: Following wildlife through challenging alpine terrain
-
-### Instagram: Visual Storytelling & Photography Portfolio
-
-Instagram serves as the primary platform for high-quality wildlife photography, daily stories from the field, and educational micro-content.
-
-**Content Strategy:**
-- Professional wildlife and landscape photography
-- Educational carousel posts about species identification and ecology
-- Behind-the-scenes stories from photography expeditions
-- Technical tips for nature photographers
-- Real-time updates from field work
-- Community engagement through Q&A sessions
-
-### TikTok: Short-Form Educational Content
-
-TikTok focuses on accessible, engaging short-form content that reaches younger audiences with conservation messages and wildlife education.
-
-**Format:**
-- Quick wildlife encounters and rare behavior moments
-- Species identification tutorials
-- Fun facts about alpine fauna
-- Conservation awareness messages
-- Trekking tips and outdoor ethics
-- Trending formats adapted to nature education
+- **Documentazione Etica della Fauna**: Zero disturbo agli animali e al loro comportamento naturale
+- **Accuratezza Scientifica**: Contenuti basati su fatti e fondati sulla ricerca ecologica e biologica
+- **Prima la Conservazione**: Ogni contenuto serve l'obiettivo più ampio della protezione ambientale
+- **Leave No Trace**: Pratiche responsabili all'aperto in tutte le attività sul campo
+- **Storytelling Autentico**: Esperienze genuine condivise con trasparenza e passione
 
 ---
 
-## Wildlife Documentation
+## Panoramica dei Contenuti
 
-### Target Species
+### YouTube: Documentari Lunghi e Contenuti Educativi
 
-**Large Mammals**
-- Alpine Ibex (*Capra ibex*)
-- Alpine Chamois (*Rupicapra rupicapra*)
-- Red Deer (*Cervus elaphus*)
-- Roe Deer (*Capreolus capreolus*)
-- Italian Wolf (*Canis lupus italicus*)
-- Red Fox (*Vulpes vulpes*)
+Il canale YouTube presenta documentari naturalistici approfonditi, serie educative e guide complete che esplorano la fauna alpina e gli ecosistemi montani.
 
-**Medium & Small Mammals**
-- Alpine Marmot (*Marmota marmota*)
-- European Hare (*Lepus europaeus*)
-- Mountain Hare (*Lepus timidus*)
-- Stoat (*Mustela erminea*)
-- Pine Marten (*Martes martes*)
-- Red Squirrel (*Sciurus vulgaris*)
+**Categorie di Contenuti:**
+- **Documentari Naturalistici**: Osservazioni dettagliate di specie alpine nel loro habitat naturale
+- **Focus sulle Specie**: Approfondimenti sul comportamento, biologia ed ecologia di singole specie
+- **Storie di Conservazione**: Evidenziare gli sforzi di conservazione e le sfide ambientali
+- **Dietro le Quinte della Fotografia**: Approfondimenti tecnici sulla fotografia naturalistica
+- **Fauna Stagionale**: Documentare i cambiamenti comportamentali nelle diverse stagioni
+- **Spedizioni in Montagna**: Seguire la fauna attraverso terreni alpini impegnativi
 
-**Birds of Prey & Alpine Birds**
-- Golden Eagle (*Aquila chrysaetos*)
-- Bearded Vulture (*Gypaetus barbatus*)
-- Eurasian Eagle-Owl (*Bubo bubo*)
-- Peregrine Falcon (*Falco peregrinus*)
-- Rock Ptarmigan (*Lagopus muta*)
-- Alpine Chough (*Pyrrhocorax graculus*)
-- Northern Wheatear (*Oenanthe oenanthe*)
+### Instagram: Visual Storytelling e Portfolio Fotografico
 
----
+Instagram è la piattaforma principale per fotografia naturalistica di alta qualità, storie quotidiane dal campo e micro-contenuti educativi.
 
-## Geographic Focus
+**Strategia dei Contenuti:**
+- Fotografia professionale di fauna e paesaggi
+- Post a carosello educativi sull'identificazione delle specie e l'ecologia
+- Storie dietro le quinte dalle spedizioni fotografiche
+- Suggerimenti tecnici per fotografi naturalisti
+- Aggiornamenti in tempo reale dal lavoro sul campo
+- Coinvolgimento della community attraverso sessioni di domande e risposte
 
-### Primary Regions
+### TikTok: Contenuti Educativi in Formato Breve
 
-**Italian Alps**
-- Gran Paradiso National Park (Valle d'Aosta, Piedmont)
-- Stelvio National Park (Lombardy, Trentino-Alto Adige)
-- Dolomites UNESCO World Heritage Site
-- Maritime Alps Natural Park
-- Julian Alps and Prealps
+TikTok si concentra su contenuti brevi accessibili e coinvolgenti che raggiungono il pubblico giovane con messaggi di conservazione ed educazione naturalistica.
 
-**Apennine Mountains**
-- Abruzzo, Lazio and Molise National Park
-- Gran Sasso and Monti della Laga National Park
-- Maiella National Park
-- Tuscan-Emilian Apennine National Park
-
-### Ecosystem Types
-- Alpine tundra and high-altitude meadows
-- Subalpine coniferous forests
-- Mixed deciduous-coniferous forests
-- Rocky slopes and scree fields
-- Alpine lakes and streams
-- Mountain pastures and traditional agricultural landscapes
+**Formato:**
+- Incontri rapidi con la fauna e momenti di comportamento raro
+- Tutorial sull'identificazione delle specie
+- Curiosità sulla fauna alpina
+- Messaggi di sensibilizzazione sulla conservazione
+- Consigli per il trekking ed etica outdoor
+- Formati di tendenza adattati all'educazione naturalistica
 
 ---
 
-## Professional Approach
+## Documentazione della Fauna
 
-### Photography & Filming Ethics
+### Specie Target
 
-**Guiding Principles:**
-- Minimum 50-meter distance from large mammals (species-dependent)
-- No baiting, calling, or manipulation of wildlife behavior
-- No use of flash photography with nocturnal or sensitive species
-- Respect for breeding seasons and den sites
-- Compliance with national park regulations and permits
-- Priority to animal welfare over content acquisition
+**Grandi Mammiferi**
+- Stambecco Alpino (*Capra ibex*)
+- Camoscio Alpino (*Rupicapra rupicapra*)
+- Cervo Rosso (*Cervus elaphus*)
+- Capriolo (*Capreolus capreolus*)
+- Lupo Italiano (*Canis lupus italicus*)
+- Volpe Rossa (*Vulpes vulpes*)
 
-### Technical Standards
+**Mammiferi Medi e Piccoli**
+- Marmotta Alpina (*Marmota marmota*)
+- Lepre Comune (*Lepus europaeus*)
+- Lepre Variabile (*Lepus timidus*)
+- Ermellino (*Mustela erminea*)
+- Martora (*Martes martes*)
+- Scoiattolo Rosso (*Sciurus vulgaris*)
 
-**Image Quality:**
-- Minimum 24MP resolution for photography
-- 4K video production standard
-- Professional color grading and post-production
-- RAW format shooting for maximum flexibility
-- Proper metadata and cataloging
-
-**Content Accuracy:**
-- Scientific fact-checking before publication
-- Consultation with wildlife biologists when needed
-- Accurate species identification and nomenclature
-- Clear distinction between observation and interpretation
-- Transparent communication of uncertainties
+**Rapaci e Uccelli Alpini**
+- Aquila Reale (*Aquila chrysaetos*)
+- Gipeto (*Gypaetus barbatus*)
+- Gufo Reale (*Bubo bubo*)
+- Falco Pellegrino (*Falco peregrinus*)
+- Pernice Bianca (*Lagopus muta*)
+- Gracchio Alpino (*Pyrrhocorax graculus*)
+- Culbianco (*Oenanthe oenanthe*)
 
 ---
 
-## Equipment & Technology
+## Focus Geografico
 
-### Camera Systems
+### Regioni Principali
 
-**Primary Photography Setup**
-- Full-frame mirrorless camera systems
-- Professional telephoto lenses (400-600mm range)
-- Wide-angle lenses for landscape context
-- Weather-sealed equipment for alpine conditions
+**Alpi Italiane**
+- Parco Nazionale Gran Paradiso (Valle d'Aosta, Piemonte)
+- Parco Nazionale dello Stelvio (Lombardia, Trentino-Alto Adige)
+- Dolomiti Patrimonio UNESCO
+- Parco Naturale delle Alpi Marittime
+- Alpi e Prealpi Giulie
 
-**Video Production**
-- 4K-capable video cameras
-- Stabilization systems (gimbal, tripod)
-- Professional audio recording equipment
-- Drone technology for aerial perspectives (when permitted)
+**Appennini**
+- Parco Nazionale d'Abruzzo, Lazio e Molise
+- Parco Nazionale del Gran Sasso e Monti della Laga
+- Parco Nazionale della Maiella
+- Parco Nazionale dell'Appennino Tosco-Emiliano
 
-### Field Equipment
+### Tipi di Ecosistemi
+- Tundra alpina e praterie d'alta quota
+- Foreste di conifere subalpine
+- Foreste miste di latifoglie e conifere
+- Pendii rocciosi e ghiaioni
+- Laghi e torrenti alpini
+- Pascoli montani e paesaggi agricoli tradizionali
 
-**Navigation & Safety**
-- GPS devices and topographic maps
-- Emergency communication systems
-- First aid and survival equipment
-- Weather monitoring tools
+---
 
-**Observation Tools**
-- High-quality binoculars
-- Spotting scopes for distant observation
-- Trail cameras for long-term monitoring
-- Field guides and identification resources
+## Approccio Professionale
 
-### Post-Production
+### Etica della Fotografia e delle Riprese
+
+**Principi Guida:**
+- Distanza minima di 50 metri dai grandi mammiferi (variabile a seconda della specie)
+- Nessuna esca, richiamo o manipolazione del comportamento della fauna
+- Nessun uso di flash fotografico con specie notturne o sensibili
+- Rispetto delle stagioni riproduttive e dei siti di tana
+- Conformità ai regolamenti e permessi dei parchi nazionali
+- Priorità al benessere animale rispetto all'acquisizione di contenuti
+
+### Standard Tecnici
+
+**Qualità delle Immagini:**
+- Risoluzione minima di 24MP per la fotografia
+- Standard di produzione video in 4K
+- Color grading professionale e post-produzione
+- Scatto in formato RAW per massima flessibilità
+- Metadati e catalogazione appropriati
+
+**Accuratezza dei Contenuti:**
+- Verifica scientifica dei fatti prima della pubblicazione
+- Consultazione con biologi naturalisti quando necessario
+- Identificazione accurata delle specie e nomenclatura
+- Chiara distinzione tra osservazione e interpretazione
+- Comunicazione trasparente delle incertezze
+
+---
+
+## Attrezzatura e Tecnologia
+
+### Sistemi Fotografici
+
+**Setup Fotografico Principale**
+- Sistemi fotografici mirrorless full-frame
+- Obiettivi teleobiettivo professionali (range 400-600mm)
+- Obiettivi grandangolari per il contesto paesaggistico
+- Attrezzatura sigillata contro le intemperie per condizioni alpine
+
+**Produzione Video**
+- Videocamere capaci di 4K
+- Sistemi di stabilizzazione (gimbal, treppiede)
+- Attrezzatura professionale per la registrazione audio
+- Tecnologia drone per prospettive aeree (quando consentito)
+
+### Attrezzatura da Campo
+
+**Navigazione e Sicurezza**
+- Dispositivi GPS e mappe topografiche
+- Sistemi di comunicazione di emergenza
+- Attrezzatura di primo soccorso e sopravvivenza
+- Strumenti per il monitoraggio meteorologico
+
+**Strumenti di Osservazione**
+- Binocoli di alta qualità
+- Cannocchiali per l'osservazione a distanza
+- Fototrappole per il monitoraggio a lungo termine
+- Guide da campo e risorse per l'identificazione
+
+### Post-Produzione
 
 - Adobe Creative Suite (Premiere Pro, Lightroom, Photoshop)
-- Color grading software
-- Audio engineering tools
-- Metadata management systems
+- Software per color grading
+- Strumenti di ingegneria audio
+- Sistemi di gestione dei metadati
 
 ---
 
-## Conservation Impact
+## Impatto sulla Conservazione
 
-### Educational Reach
+### Portata Educativa
 
-The project aims to maximize conservation impact through educational content that reaches diverse audiences across multiple platforms, translating scientific knowledge into accessible and engaging formats.
+Il progetto mira a massimizzare l'impatto sulla conservazione attraverso contenuti educativi che raggiungono pubblici diversi su più piattaforme, traducendo la conoscenza scientifica in formati accessibili e coinvolgenti.
 
-### Partnership Opportunities
+### Opportunità di Partnership
 
-**Organizations We Work With:**
-- National and regional park authorities
-- Wildlife conservation NGOs
-- Environmental education institutions
-- Sustainable tourism initiatives
-- Scientific research projects
+**Organizzazioni con cui Collaboriamo:**
+- Autorità dei parchi nazionali e regionali
+- ONG per la conservazione della fauna
+- Istituzioni di educazione ambientale
+- Iniziative di turismo sostenibile
+- Progetti di ricerca scientifica
 
-### Community Engagement
+### Coinvolgimento della Community
 
-- Educational workshops on wildlife photography ethics
-- Guided nature walks focused on conservation
-- Social media campaigns for specific conservation issues
-- Collaboration with local communities in mountain regions
-- Support for citizen science initiatives
+- Workshop educativi sull'etica della fotografia naturalistica
+- Passeggiate naturalistiche guidate focalizzate sulla conservazione
+- Campagne sui social media per problemi specifici di conservazione
+- Collaborazione con comunità locali nelle regioni montane
+- Supporto per iniziative di citizen science
 
 ---
 
-## About the Creator
+## Il Creatore
 
 ### Simone Mattioli
 
-**mountain&faunalover** is created and produced by Simone Mattioli, a wildlife photographer and content creator passionate about alpine ecosystems and conservation storytelling.
+**mountain&faunalover** è creato e prodotto da Simone Mattioli, fotografo naturalista e creatore di contenuti appassionato di ecosistemi alpini e storytelling sulla conservazione.
 
 **Background:**
-- Wildlife and nature photography specialist
-- Mountain enthusiast with extensive trekking experience
-- Advocate for ethical wildlife observation and Leave No Trace principles
-- Committed to using content creation as a tool for environmental education
+- Specialista in fotografia naturalistica e della natura
+- Appassionato di montagna con ampia esperienza nel trekking
+- Sostenitore dell'osservazione etica della fauna e dei principi Leave No Trace
+- Impegnato nell'uso della creazione di contenuti come strumento per l'educazione ambientale
 
-**Professional Profile:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/simonemattioli2003/) - Professional network and career updates
-- 💻 [GitHub](https://github.com/simo-hue) - Technical projects and code
-- 🌐 [Personal Links Hub](https://simo-hue.github.io/links/) - Complete contact information
+**Profilo Professionale:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/simonemattioli2003/) - Network professionale e aggiornamenti di carriera
+- 💻 [GitHub](https://github.com/simo-hue) - Progetti tecnici e codice
+- 🌐 [Hub Link Personali](https://simo-hue.github.io/links/) - Informazioni di contatto complete
 
-**Other Content Projects:**
-- 📹 [Simo's Diary](https://youtube.com/@simosdiary2003) - Personal vlogs and life storytelling
-- 📸 [Instagram Personal](https://instagram.com/simo___one) - Lifestyle and travel content
+**Altri Progetti di Contenuti:**
+- 📹 [Simo's Diary](https://youtube.com/@simosdiary2003) - Vlog personali e storytelling di vita
+- 📸 [Instagram Personale](https://instagram.com/simo___one) - Contenuti lifestyle e di viaggio
 
-**Philosophy:**
+**Filosofia:**
 
-> "I believe that authentic connection with nature begins with respect, patience, and a willingness to observe without disturbing. Through my content, I aim to share the wonder of alpine wildlife while promoting the conservation values that will protect these ecosystems for future generations."
+> "Credo che l'autentica connessione con la natura inizi con il rispetto, la pazienza e la volontà di osservare senza disturbare. Attraverso i miei contenuti, miro a condividere la meraviglia della fauna alpina promuovendo al contempo i valori di conservazione che proteggeranno questi ecosistemi per le generazioni future."
 
 ---
 
-## Collaboration Opportunities
+## Opportunità di Collaborazione
 
-### Partnership Interests
+### Interessi di Partnership
 
-**We Are Open To:**
-- **Brand Collaborations**: Outdoor equipment, photography gear, sustainable outdoor apparel
-- **Conservation Projects**: NGOs, research institutions, park authorities
-- **Media Features**: Documentary productions, educational content, journalism
-- **Tourism Initiatives**: Sustainable tourism boards, eco-friendly accommodations
-- **Educational Institutions**: Schools, universities, environmental education centers
+**Siamo Aperti A:**
+- **Collaborazioni con Brand**: Attrezzatura outdoor, equipaggiamento fotografico, abbigliamento outdoor sostenibile
+- **Progetti di Conservazione**: ONG, istituti di ricerca, autorità dei parchi
+- **Feature nei Media**: Produzioni documentaristiche, contenuti educativi, giornalismo
+- **Iniziative Turistiche**: Enti turistici sostenibili, sistemazioni eco-friendly
+- **Istituzioni Educative**: Scuole, università, centri di educazione ambientale
 
-### What We Offer
+### Cosa Offriamo
 
-**For Brands:**
-- Authentic product integration in high-quality content
-- Professional photography and videography services
-- Access to engaged outdoor and nature photography audiences
-- Long-term ambassadorship opportunities
-- Content rights for marketing purposes
+**Per i Brand:**
+- Integrazione autentica di prodotti in contenuti di alta qualità
+- Servizi professionali di fotografia e videografia
+- Accesso a pubblici coinvolti nell'outdoor e nella fotografia naturalistica
+- Opportunità di ambassadorship a lungo termine
+- Diritti sui contenuti per scopi di marketing
 
-**For Conservation Organizations:**
-- Pro-bono content creation for conservation campaigns
-- Educational material development
-- Social media amplification of conservation messages
-- Documentation services for research and monitoring projects
-- Community engagement and outreach
+**Per Organizzazioni di Conservazione:**
+- Creazione di contenuti pro-bono per campagne di conservazione
+- Sviluppo di materiale educativo
+- Amplificazione sui social media di messaggi di conservazione
+- Servizi di documentazione per progetti di ricerca e monitoraggio
+- Coinvolgimento della community e divulgazione
 
-**For Media:**
-- Exclusive wildlife footage and photography
-- Expert commentary on alpine ecosystems and wildlife
-- Location scouting and field coordination
-- Stock content licensing
+**Per i Media:**
+- Filmati e fotografie esclusive della fauna
+- Commenti esperti su ecosistemi alpini e fauna
+- Scouting di location e coordinamento sul campo
+- Licenza di contenuti stock
 
-### Requirements
+### Requisiti
 
-All partnerships must align with our core values of ethical wildlife observation, environmental conservation, and scientific accuracy. We do not work with organizations or brands whose practices conflict with conservation principles.
+Tutte le partnership devono allinearsi ai nostri valori fondamentali di osservazione etica della fauna, conservazione ambientale e accuratezza scientifica. Non lavoriamo con organizzazioni o brand le cui pratiche sono in conflitto con i principi di conservazione.
 
-**Contact for Collaborations:**
+**Contatto per Collaborazioni:**
 📧 [mattioli.simone.10@gmail.com](mailto:mattioli.simone.10@gmail.com)
 
 ---
 
-## Community & Support
+## Community e Supporto
 
-### Connect With Us
+### Connettiti con Noi
 
-Follow **mountain&faunalover** across platforms to stay updated with the latest wildlife content, photography tips, and conservation stories:
+Segui **mountain&faunalover** su tutte le piattaforme per rimanere aggiornato con gli ultimi contenuti naturalistici, consigli fotografici e storie di conservazione:
 
-| Platform | Purpose | Update Frequency |
+| Piattaforma | Scopo | Frequenza di Aggiornamento |
 |----------|---------|------------------|
-| [YouTube](https://www.youtube.com/@mountainfaunalover) | Long-form documentaries, tutorials | Weekly |
-| [Instagram](https://instagram.com/mountainfaunalover) | Photography, stories, education | Daily |
-| [TikTok](https://www.tiktok.com/@mountainfaunalover) | Short educational clips | 3-4x weekly |
+| [YouTube](https://www.youtube.com/@mountainfaunalover) | Documentari lunghi, tutorial | Settimanale |
+| [Instagram](https://instagram.com/mountainfaunalover) | Fotografia, storie, educazione | Giornaliera |
+| [TikTok](https://www.tiktok.com/@mountainfaunalover) | Clip educative brevi | 3-4 volte a settimana |
 
-### How to Support
+### Come Supportare
 
-**Free Ways to Help:**
-- ✅ Subscribe and follow across all platforms
-- 👍 Engage with content (likes, comments, shares)
-- 🔔 Enable notifications for new content
-- 💬 Share with fellow nature enthusiasts
-- 🌱 Practice Leave No Trace principles
-- 📢 Spread conservation awareness
+**Modi Gratuiti per Aiutare:**
+- ✅ Iscriviti e segui su tutte le piattaforme
+- 👍 Interagisci con i contenuti (like, commenti, condivisioni)
+- 🔔 Abilita le notifiche per i nuovi contenuti
+- 💬 Condividi con altri appassionati di natura
+- 🌱 Pratica i principi Leave No Trace
+- 📢 Diffondi la consapevolezza sulla conservazione
 
-**Support Conservation Efforts:**
+**Supporta gli Sforzi di Conservazione:**
 
-While we don't currently offer paid memberships, we encourage supporters to donate directly to reputable wildlife conservation organizations working in alpine ecosystems:
-- WWF Italy
+Pur non offrendo attualmente membership a pagamento, incoraggiamo i sostenitori a donare direttamente a organizzazioni di conservazione della fauna di buona reputazione che lavorano negli ecosistemi alpini:
+- WWF Italia
 - Legambiente
-- National Park foundations
-- Local wildlife rehabilitation centers
+- Fondazioni dei Parchi Nazionali
+- Centri locali di riabilitazione della fauna
 
-**Professional Services:**
+**Servizi Professionali:**
 
-For professional inquiries regarding photography services, content licensing, or commissioned work, please contact via email.
+Per richieste professionali riguardanti servizi fotografici, licenze di contenuti o lavori commissionati, si prega di contattare via email.
 
 ---
 
-## Content Usage & Licensing
+## Utilizzo dei Contenuti e Licenze
 
-### Copyright Notice
+### Nota sul Copyright
 
-All content created under the **mountain&faunalover** brand, including photographs, videos, graphics, and written material, is protected by copyright law and owned by Simone Mattioli unless otherwise stated.
+Tutti i contenuti creati sotto il brand **mountain&faunalover**, incluse fotografie, video, grafica e materiale scritto, sono protetti dalla legge sul copyright e di proprietà di Simone Mattioli salvo diversa indicazione.
 
-### Usage Permissions
+### Permessi di Utilizzo
 
-**Educational & Non-Commercial Use:**
-- Attribution required: "mountain&faunalover / Simone Mattioli"
-- Link back to original source
-- Not for commercial purposes without permission
-- Contact for specific use cases
+**Uso Educativo e Non Commerciale:**
+- Attribuzione richiesta: "mountain&faunalover / Simone Mattioli"
+- Link alla fonte originale
+- Non per scopi commerciali senza permesso
+- Contattare per casi d'uso specifici
 
-**Commercial Use:**
-- All commercial usage requires explicit written permission
-- Licensing fees apply based on usage scope
-- Stock photography and footage available upon request
-- Custom content creation services available
+**Uso Commerciale:**
+- Tutti gli usi commerciali richiedono permesso scritto esplicito
+- Si applicano tariffe di licenza in base all'ambito d'uso
+- Fotografia e filmati stock disponibili su richiesta
+- Servizi di creazione di contenuti personalizzati disponibili
 
-**Media & Press:**
-- Media outlets may use content for editorial purposes with proper credit
-- High-resolution assets available for press upon request
-- Interview and commentary requests welcome
+**Media e Stampa:**
+- Gli organi di informazione possono utilizzare i contenuti per scopi editoriali con i dovuti crediti
+- Asset ad alta risoluzione disponibili per la stampa su richiesta
+- Richieste di interviste e commenti sono benvenute
 
-**Prohibited Use:**
-- Alteration of images to misrepresent wildlife behavior
-- Use in materials that contradict conservation messages
-- Removal of watermarks or attribution
-- Redistribution without permission
+**Uso Proibito:**
+- Alterazione delle immagini per rappresentare in modo errato il comportamento della fauna
+- Uso in materiali che contraddicono i messaggi di conservazione
+- Rimozione di watermark o attribuzioni
+- Ridistribuzione senza permesso
 
-### Contact for Licensing
+### Contatto per Licenze
 📧 [mattioli.simone.10@gmail.com](mailto:mattioli.simone.10@gmail.com)
 
 ---
 
-## Frequently Asked Questions
+## Domande Frequenti
 
-### General Questions
+### Domande Generali
 
-**What equipment do you use?**
-We use professional-grade camera systems with telephoto lenses suitable for wildlife photography, along with stabilization equipment and drones (where permitted). Specific gear recommendations vary based on budget and experience level.
+**Quale attrezzatura utilizzate?**
+Utilizziamo sistemi fotografici di livello professionale con obiettivi teleobiettivo adatti alla fotografia naturalistica, insieme ad attrezzatura di stabilizzazione e droni (dove consentito). Le raccomandazioni specifiche sull'attrezzatura variano in base al budget e al livello di esperienza.
 
-**How do you approach wildlife without disturbing them?**
-We maintain safe distances using telephoto lenses, move slowly and predictably, avoid breeding seasons and sensitive areas, and prioritize animal behavior over getting shots. Patience and respect are our primary tools.
+**Come vi avvicinate alla fauna senza disturbarla?**
+Manteniamo distanze di sicurezza utilizzando teleobiettivi, ci muoviamo lentamente e in modo prevedibile, evitiamo stagioni riproduttive e aree sensibili, e diamo priorità al comportamento animale rispetto allo scatto. Pazienza e rispetto sono i nostri strumenti principali.
 
-**Do you organize photography workshops or tours?**
-Currently, we focus primarily on content creation. However, we are considering educational workshops in the future. Subscribe to our channels to stay informed about any upcoming events.
+**Organizzate workshop di fotografia o tour?**
+Attualmente, ci concentriamo principalmente sulla creazione di contenuti. Tuttavia, stiamo considerando workshop educativi in futuro. Iscriviti ai nostri canali per rimanere informato su eventuali eventi futuri.
 
-**Can I use your photos for my school project?**
-Yes, for educational purposes with proper attribution. Please email us with details about your project.
+**Posso usare le vostre foto per il mio progetto scolastico?**
+Sì, per scopi educativi con la dovuta attribuzione. Si prega di inviarci un'email con i dettagli sul vostro progetto.
 
-### Technical Questions
+### Domande Tecniche
 
-**What settings do you recommend for wildlife photography?**
-Settings vary greatly based on lighting, subject distance, and desired effect. Generally: fast shutter speeds (1/1000s+), wide apertures for subject isolation, and auto-ISO for flexibility. Learning to read light and anticipate behavior is more important than specific settings.
+**Quali impostazioni consigliate per la fotografia naturalistica?**
+Le impostazioni variano molto in base all'illuminazione, alla distanza del soggetto e all'effetto desiderato. In generale: tempi di otturazione veloci (1/1000s+), aperture ampie per l'isolamento del soggetto e ISO automatico per flessibilità. Imparare a leggere la luce e anticipare il comportamento è più importante delle impostazioni specifiche.
 
-**How do you find wildlife in the mountains?**
-Success comes from research, local knowledge, understanding animal behavior and habitat preferences, early morning starts, patience, and respect for the environment. Time spent observing beats time spent walking.
+**Come trovate la fauna in montagna?**
+Il successo deriva da ricerca, conoscenza locale, comprensione del comportamento animale e delle preferenze di habitat, partenze mattutine, pazienza e rispetto per l'ambiente. Il tempo trascorso a osservare batte il tempo trascorso a camminare.
 
-**What permits do you need to film in national parks?**
-Requirements vary by park. Professional filming often requires permits, while casual photography generally doesn't. Always check specific park regulations before planning a trip.
+**Quali permessi servono per filmare nei parchi nazionali?**
+I requisiti variano da parco a parco. Le riprese professionali spesso richiedono permessi, mentre la fotografia occasionale generalmente no. Controllare sempre i regolamenti specifici del parco prima di pianificare un viaggio.
 
-### Collaboration Questions
+### Domande sulle Collaborazioni
 
-**Do you accept free products for review?**
-We only work with brands that align with our conservation values. Product reviews must allow for honest assessment. Contact us with specific proposals.
+**Accettate prodotti gratuiti per recensioni?**
+Lavoriamo solo con brand che si allineano con i nostri valori di conservazione. Le recensioni di prodotti devono permettere una valutazione onesta. Contattateci con proposte specifiche.
 
-**Can you feature my conservation project?**
-We're always interested in supporting legitimate conservation efforts. Please email with details about your project, its goals, and how we might collaborate.
+**Potete presentare il mio progetto di conservazione?**
+Siamo sempre interessati a supportare sforzi di conservazione legittimi. Si prega di inviare un'email con i dettagli sul vostro progetto, i suoi obiettivi e come potremmo collaborare.
 
-**Are you available for speaking engagements?**
-Potentially, depending on the event, audience, and alignment with our mission. Please reach out with specific details.
+**Siete disponibili per interventi pubblici?**
+Potenzialmente, a seconda dell'evento, del pubblico e dell'allineamento con la nostra missione. Si prega di contattarci con dettagli specifici.
 
 ---
 
-## Technical Information
+## Informazioni Tecniche
 
-### SEO & Discoverability
+### SEO e Reperibilità
 
-**Primary Keywords:** wildlife photography, alpine fauna, mountain wildlife, nature conservation, Italian Alps, wildlife documentary, ethical wildlife photography, nature education, alpine ecosystems, mountain photography
+**Parole Chiave Principali:** fotografia naturalistica, fauna alpina, fauna montana, conservazione della natura, Alpi italiane, documentario naturalistico, fotografia etica della fauna, educazione naturalistica, ecosistemi alpini, fotografia di montagna
 
-**Species Keywords:** ibex, chamois, red deer, golden eagle, marmot, wolf, bearded vulture, alpine birds, European mammals
+**Parole Chiave sulle Specie:** stambecco, camoscio, cervo rosso, aquila reale, marmotta, lupo, gipeto, uccelli alpini, mammiferi europei
 
-**Location Keywords:** Gran Paradiso, Stelvio National Park, Dolomites, Italian Alps, Apennines, Alpine wildlife, mountain biodiversity
+**Parole Chiave sulla Posizione:** Gran Paradiso, Parco Nazionale dello Stelvio, Dolomiti, Alpi italiane, Appennini, fauna alpina, biodiversità montana
 
-### Structured Data for Search Engines
+### Dati Strutturati per i Motori di Ricerca
 
 ```json
 {
@@ -427,7 +431,7 @@ Potentially, depending on the event, audience, and alignment with our mission. P
   "@type": "Person",
   "name": "Simone Mattioli",
   "alternateName": "mountain&faunalover",
-  "description": "Wildlife photographer and content creator specializing in alpine fauna documentation and conservation storytelling",
+  "description": "Fotografo naturalista e creatore di contenuti specializzato nella documentazione della fauna alpina e nello storytelling sulla conservazione",
   "url": "https://github.com/simo-hue",
   "sameAs": [
     "https://www.youtube.com/@mountainfaunalover",
@@ -436,120 +440,120 @@ Potentially, depending on the event, audience, and alignment with our mission. P
     "https://www.linkedin.com/in/simonemattioli2003/",
     "https://simo-hue.github.io/links/"
   ],
-  "jobTitle": "Wildlife Content Creator & Nature Photographer",
+  "jobTitle": "Creatore di Contenuti Naturalistici e Fotografo Naturalista",
   "knowsAbout": [
-    "Wildlife Photography",
-    "Alpine Ecosystems",
-    "Nature Conservation",
-    "Mountain Biodiversity",
-    "Environmental Education",
-    "Ethical Wildlife Observation"
+    "Fotografia Naturalistica",
+    "Ecosistemi Alpini",
+    "Conservazione della Natura",
+    "Biodiversità Montana",
+    "Educazione Ambientale",
+    "Osservazione Etica della Fauna"
   ]
 }
 ```
 
-### Machine Learning & AI Context
+### Contesto Machine Learning & AI
 
 ```yaml
-project_metadata:
-  name: "mountain&faunalover"
-  creator: "Simone Mattioli"
-  category: "wildlife_content_creation"
-  
-focus_areas:
-  - alpine_wildlife_documentation
-  - nature_photography
-  - conservation_education
-  - sustainable_tourism
-  - environmental_storytelling
+metadati_progetto:
+  nome: "mountain&faunalover"
+  creatore: "Simone Mattioli"
+  categoria: "creazione_contenuti_naturalistici"
 
-target_species_groups:
-  - large_mammals: ["ibex", "chamois", "deer", "wolf"]
-  - birds_of_prey: ["golden_eagle", "bearded_vulture", "peregrine_falcon"]
-  - alpine_birds: ["ptarmigan", "chough", "accentor"]
-  - small_mammals: ["marmot", "hare", "squirrel", "stoat"]
+aree_focus:
+  - documentazione_fauna_alpina
+  - fotografia_naturalistica
+  - educazione_conservazione
+  - turismo_sostenibile
+  - storytelling_ambientale
 
-geographic_scope:
-  regions: ["Italian Alps", "Apennine Mountains"]
-  protected_areas: ["Gran Paradiso", "Stelvio", "Dolomites", "Abruzzo"]
-  ecosystems: ["alpine_tundra", "subalpine_forest", "mountain_meadows"]
+gruppi_specie_target:
+  - grandi_mammiferi: ["stambecco", "camoscio", "cervo", "lupo"]
+  - rapaci: ["aquila_reale", "gipeto", "falco_pellegrino"]
+  - uccelli_alpini: ["pernice_bianca", "gracchio", "sordone"]
+  - piccoli_mammiferi: ["marmotta", "lepre", "scoiattolo", "ermellino"]
 
-content_platforms:
-  primary: ["YouTube", "Instagram", "TikTok"]
-  format: ["documentary", "photography", "educational_shorts"]
-  
-values:
-  - ethical_wildlife_observation
-  - scientific_accuracy
-  - conservation_first
+ambito_geografico:
+  regioni: ["Alpi Italiane", "Appennini"]
+  aree_protette: ["Gran Paradiso", "Stelvio", "Dolomiti", "Abruzzo"]
+  ecosistemi: ["tundra_alpina", "foresta_subalpina", "praterie_montane"]
+
+piattaforme_contenuti:
+  primarie: ["YouTube", "Instagram", "TikTok"]
+  formato: ["documentario", "fotografia", "brevi_educativi"]
+
+valori:
+  - osservazione_etica_fauna
+  - accuratezza_scientifica
+  - conservazione_prioritaria
   - leave_no_trace
-  - authentic_storytelling
-  
-collaboration_interests:
-  - conservation_organizations
-  - outdoor_equipment_brands
-  - national_park_authorities
-  - educational_institutions
-  - sustainable_tourism_initiatives
+  - storytelling_autentico
 
-professional_standards:
-  - minimum_distance_protocols
-  - no_baiting_or_manipulation
-  - permit_compliance
-  - fact_checking
-  - transparent_communication
+interessi_collaborazione:
+  - organizzazioni_conservazione
+  - brand_attrezzatura_outdoor
+  - autorita_parchi_nazionali
+  - istituzioni_educative
+  - iniziative_turismo_sostenibile
+
+standard_professionali:
+  - protocolli_distanza_minima
+  - no_esche_o_manipolazione
+  - conformita_permessi
+  - verifica_fatti
+  - comunicazione_trasparente
 ```
 
 ---
 
-## Acknowledgments
+## Ringraziamenti
 
-### Inspiration & Gratitude
+### Ispirazione e Gratitudine
 
-This project would not be possible without:
-- The dedicated park rangers and wildlife biologists who protect alpine ecosystems
-- The conservation organizations working tirelessly for environmental protection
-- Fellow nature photographers and content creators who prioritize ethics and education
-- The communities living in mountain regions who maintain sustainable relationships with nature
-- Everyone who engages with and shares conservation content
+Questo progetto non sarebbe possibile senza:
+- I guardaparco e i biologi naturalisti dedicati che proteggono gli ecosistemi alpini
+- Le organizzazioni di conservazione che lavorano instancabilmente per la protezione ambientale
+- I colleghi fotografi naturalisti e creatori di contenuti che danno priorità all'etica e all'educazione
+- Le comunità che vivono nelle regioni montane e mantengono relazioni sostenibili con la natura
+- Tutti coloro che interagiscono e condividono contenuti sulla conservazione
 
-### Special Thanks
+### Ringraziamenti Speciali
 
-- National park authorities for access and collaboration
-- Local guides and mountain experts for their knowledge
-- The wildlife photography community for inspiration and support
-- Viewers and followers who make this work meaningful and sustainable
+- Autorità dei parchi nazionali per l'accesso e la collaborazione
+- Guide locali ed esperti di montagna per la loro conoscenza
+- La community di fotografia naturalistica per ispirazione e supporto
+- Spettatori e follower che rendono questo lavoro significativo e sostenibile
 
 ---
 
 <div align="center">
 
-## 🏔️ Protecting What We Love Through Storytelling 🦅
+## 🏔️ Proteggere Ciò che Amiamo Attraverso lo Storytelling 🦅
 
-*Every photograph, every video, every story serves one purpose: to inspire conservation action*
+*Ogni fotografia, ogni video, ogni storia serve un unico scopo: ispirare azioni di conservazione*
 
-### Follow the Journey
+### Segui il Viaggio
 
-[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mountainfaunalover)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mountainfaunalover)
-[![TikTok](https://img.shields.io/badge/Follow-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mountainfaunalover)
-
----
-
-**Created by Simone Mattioli**
-
-[🌐 All Links](https://simo-hue.github.io/links/) | [💼 LinkedIn](https://www.linkedin.com/in/simonemattioli2003/) | [💻 GitHub](https://github.com/simo-hue) | [📧 Email](mailto:mattioli.simone.10@gmail.com)
+[![YouTube](https://img.shields.io/badge/Iscriviti-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mountainfaunalover)
+[![Instagram](https://img.shields.io/badge/Segui-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mountainfaunalover)
+[![TikTok](https://img.shields.io/badge/Segui-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mountainfaunalover)
 
 ---
 
-**© 2024 mountain&faunalover | All Rights Reserved**
+**Creato da Simone Mattioli**
 
-*Documenting alpine wildlife with respect, patience, and purpose*
+[🌐 Tutti i Link](https://simo-hue.github.io/links/) | [💼 LinkedIn](https://www.linkedin.com/in/simonemattioli2003/) | [💻 GitHub](https://github.com/simo-hue) | [📧 Email](mailto:mattioli.simone.10@gmail.com)
 
-📍 Based in Italy 🇮🇹 | 🌍 Protecting Alpine Ecosystems | 📸 Conservation Through Content
+---
+
+**© 2024 mountain&faunalover | Tutti i Diritti Riservati**
+
+*Documentare la fauna alpina con rispetto, pazienza e scopo*
+
+📍 Con sede in Italia 🇮🇹 | 🌍 Proteggere gli Ecosistemi Alpini | 📸 Conservazione Attraverso i Contenuti
 
 </div>
 
 ---
 
-**Last Updated:** October 2024 | **Version:** 1.0 Public Release | **Status:** Active Project
+**Ultimo Aggiornamento:** Ottobre 2024 | **Versione:** 1.0 Rilascio Pubblico | **Stato:** Progetto Attivo
