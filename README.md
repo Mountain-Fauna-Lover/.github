@@ -379,4 +379,4 @@ standard_professionali:
 
 ---
 
-**Ultimo Aggiornamento:** Ottobre 2024 | **Versione:** 1.0 Rilascio Pubblico | **Stato:** Progetto Attivo
+**Ultimo Aggiornamento:** Ottobre 2025 | **Versione:** 1.0 Rilascio Pubblico | **Stato:** Progetto Attivo
