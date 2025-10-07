@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Logo](logo.jpg)
-
 ![Banner](brackground.jpg)
 
 ![Fotografia Naturalistica](https://img.shields.io/badge/Focus-Fotografia%20Naturalistica-4CAF50?style=flat-square)
@@ -24,17 +22,11 @@
 
 ## Il Progetto
 
-**mountain&faunalover** è un progetto professionale di creazione di contenuti naturalistici dedicato alla documentazione e alla celebrazione della straordinaria biodiversità degli ecosistemi alpini. Attraverso fotografia di alta qualità, videografia coinvolgente e storytelling educativo, questo progetto mira a sensibilizzare sulla conservazione della fauna montana ispirando le persone a connettersi con la natura in modo responsabile.
-
-### Dichiarazione di Missione
-
-Documentare, educare e ispirare azioni per la conservazione della fauna alpina e degli ecosistemi montani attraverso la creazione di contenuti autentici, etici e scientificamente informati.
+**mountain&faunalover** è un progetto professionale di creazione di contenuti naturalistici dedicato alla documentazione e alla celebrazione della straordinaria biodiversità degli ecosistemi alpini. Attraverso fotografia, videografia coinvolgente e storytelling educativo, questo progetto mira a sensibilizzare sulla conservazione della fauna montana ispirando le persone a connettersi con la natura in modo responsabile.
 
 ### Valori Fondamentali
 
 - **Documentazione Etica della Fauna**: Zero disturbo agli animali e al loro comportamento naturale
-- **Accuratezza Scientifica**: Contenuti basati su fatti e fondati sulla ricerca ecologica e biologica
-- **Prima la Conservazione**: Ogni contenuto serve l'obiettivo più ampio della protezione ambientale
 - **Leave No Trace**: Pratiche responsabili all'aperto in tutte le attività sul campo
 - **Storytelling Autentico**: Esperienze genuine condivise con trasparenza e passione
 
@@ -42,33 +34,24 @@ Documentare, educare e ispirare azioni per la conservazione della fauna alpina e
 
 ## Panoramica dei Contenuti
 
-### YouTube: Documentari Lunghi e Contenuti Educativi
+### YouTube: Vlog Delle Esperienze e Contenuti Educativi
 
 Il canale YouTube presenta documentari naturalistici approfonditi, serie educative e guide complete che esplorano la fauna alpina e gli ecosistemi montani.
 
 **Categorie di Contenuti:**
 - **Documentari Naturalistici**: Osservazioni dettagliate di specie alpine nel loro habitat naturale
 - **Focus sulle Specie**: Approfondimenti sul comportamento, biologia ed ecologia di singole specie
-- **Storie di Conservazione**: Evidenziare gli sforzi di conservazione e le sfide ambientali
-- **Dietro le Quinte della Fotografia**: Approfondimenti tecnici sulla fotografia naturalistica
+- **Ebike Tours**: Vlog dei tour più interessanti per le ebike
 - **Fauna Stagionale**: Documentare i cambiamenti comportamentali nelle diverse stagioni
 - **Spedizioni in Montagna**: Seguire la fauna attraverso terreni alpini impegnativi
 
 ### Instagram: Visual Storytelling e Portfolio Fotografico
 
-Instagram è la piattaforma principale per fotografia naturalistica di alta qualità, storie quotidiane dal campo e micro-contenuti educativi.
-
-**Strategia dei Contenuti:**
-- Fotografia professionale di fauna e paesaggi
-- Post a carosello educativi sull'identificazione delle specie e l'ecologia
-- Storie dietro le quinte dalle spedizioni fotografiche
-- Suggerimenti tecnici per fotografi naturalisti
-- Aggiornamenti in tempo reale dal lavoro sul campo
-- Coinvolgimento della community attraverso sessioni di domande e risposte
+Instagram è la piattaforma principale per rimanere aggiornati e ricevere qualche SPOILER
 
 ### TikTok: Contenuti Educativi in Formato Breve
 
-TikTok si concentra su contenuti brevi accessibili e coinvolgenti che raggiungono il pubblico giovane con messaggi di conservazione ed educazione naturalistica.
+TikTok si concentra su contenuti brevi accessibili e coinvolgenti che raggiungono il pubblico giovane.
 
 **Formato:**
 - Incontri rapidi con la fauna e momenti di comportamento raro
@@ -138,100 +121,6 @@ TikTok si concentra su contenuti brevi accessibili e coinvolgenti che raggiungon
 
 ---
 
-## Approccio Professionale
-
-### Etica della Fotografia e delle Riprese
-
-**Principi Guida:**
-- Distanza minima di 50 metri dai grandi mammiferi (variabile a seconda della specie)
-- Nessuna esca, richiamo o manipolazione del comportamento della fauna
-- Nessun uso di flash fotografico con specie notturne o sensibili
-- Rispetto delle stagioni riproduttive e dei siti di tana
-- Conformità ai regolamenti e permessi dei parchi nazionali
-- Priorità al benessere animale rispetto all'acquisizione di contenuti
-
-### Standard Tecnici
-
-**Qualità delle Immagini:**
-- Risoluzione minima di 24MP per la fotografia
-- Standard di produzione video in 4K
-- Color grading professionale e post-produzione
-- Scatto in formato RAW per massima flessibilità
-- Metadati e catalogazione appropriati
-
-**Accuratezza dei Contenuti:**
-- Verifica scientifica dei fatti prima della pubblicazione
-- Consultazione con biologi naturalisti quando necessario
-- Identificazione accurata delle specie e nomenclatura
-- Chiara distinzione tra osservazione e interpretazione
-- Comunicazione trasparente delle incertezze
-
----
-
-## Attrezzatura e Tecnologia
-
-### Sistemi Fotografici
-
-**Setup Fotografico Principale**
-- Sistemi fotografici mirrorless full-frame
-- Obiettivi teleobiettivo professionali (range 400-600mm)
-- Obiettivi grandangolari per il contesto paesaggistico
-- Attrezzatura sigillata contro le intemperie per condizioni alpine
-
-**Produzione Video**
-- Videocamere capaci di 4K
-- Sistemi di stabilizzazione (gimbal, treppiede)
-- Attrezzatura professionale per la registrazione audio
-- Tecnologia drone per prospettive aeree (quando consentito)
-
-### Attrezzatura da Campo
-
-**Navigazione e Sicurezza**
-- Dispositivi GPS e mappe topografiche
-- Sistemi di comunicazione di emergenza
-- Attrezzatura di primo soccorso e sopravvivenza
-- Strumenti per il monitoraggio meteorologico
-
-**Strumenti di Osservazione**
-- Binocoli di alta qualità
-- Cannocchiali per l'osservazione a distanza
-- Fototrappole per il monitoraggio a lungo termine
-- Guide da campo e risorse per l'identificazione
-
-### Post-Produzione
-
-- Adobe Creative Suite (Premiere Pro, Lightroom, Photoshop)
-- Software per color grading
-- Strumenti di ingegneria audio
-- Sistemi di gestione dei metadati
-
----
-
-## Impatto sulla Conservazione
-
-### Portata Educativa
-
-Il progetto mira a massimizzare l'impatto sulla conservazione attraverso contenuti educativi che raggiungono pubblici diversi su più piattaforme, traducendo la conoscenza scientifica in formati accessibili e coinvolgenti.
-
-### Opportunità di Partnership
-
-**Organizzazioni con cui Collaboriamo:**
-- Autorità dei parchi nazionali e regionali
-- ONG per la conservazione della fauna
-- Istituzioni di educazione ambientale
-- Iniziative di turismo sostenibile
-- Progetti di ricerca scientifica
-
-### Coinvolgimento della Community
-
-- Workshop educativi sull'etica della fotografia naturalistica
-- Passeggiate naturalistiche guidate focalizzate sulla conservazione
-- Campagne sui social media per problemi specifici di conservazione
-- Collaborazione con comunità locali nelle regioni montane
-- Supporto per iniziative di citizen science
-
----
-
 ## Il Creatore
 
 ### Simone Mattioli
@@ -249,10 +138,6 @@ Il progetto mira a massimizzare l'impatto sulla conservazione attraverso contenu
 - 💻 [GitHub](https://github.com/simo-hue) - Progetti tecnici e codice
 - 🌐 [Hub Link Personali](https://simo-hue.github.io/links/) - Informazioni di contatto complete
 
-**Altri Progetti di Contenuti:**
-- 📹 [Simo's Diary](https://youtube.com/@simosdiary2003) - Vlog personali e storytelling di vita
-- 📸 [Instagram Personale](https://instagram.com/simo___one) - Contenuti lifestyle e di viaggio
-
 **Filosofia:**
 
 > "Credo che l'autentica connessione con la natura inizi con il rispetto, la pazienza e la volontà di osservare senza disturbare. Attraverso i miei contenuti, miro a condividere la meraviglia della fauna alpina promuovendo al contempo i valori di conservazione che proteggeranno questi ecosistemi per le generazioni future."
@@ -265,7 +150,6 @@ Il progetto mira a massimizzare l'impatto sulla conservazione attraverso contenu
 
 **Siamo Aperti A:**
 - **Collaborazioni con Brand**: Attrezzatura outdoor, equipaggiamento fotografico, abbigliamento outdoor sostenibile
-- **Progetti di Conservazione**: ONG, istituti di ricerca, autorità dei parchi
 - **Feature nei Media**: Produzioni documentaristiche, contenuti educativi, giornalismo
 - **Iniziative Turistiche**: Enti turistici sostenibili, sistemazioni eco-friendly
 - **Istituzioni Educative**: Scuole, università, centri di educazione ambientale
@@ -321,15 +205,14 @@ Segui **mountain&faunalover** su tutte le piattaforme per rimanere aggiornato co
 - 🔔 Abilita le notifiche per i nuovi contenuti
 - 💬 Condividi con altri appassionati di natura
 - 🌱 Pratica i principi Leave No Trace
-- 📢 Diffondi la consapevolezza sulla conservazione
 
-**Supporta gli Sforzi di Conservazione:**
+**Supporta gli Sforzi:**
 
-Pur non offrendo attualmente membership a pagamento, incoraggiamo i sostenitori a donare direttamente a organizzazioni di conservazione della fauna di buona reputazione che lavorano negli ecosistemi alpini:
-- WWF Italia
-- Legambiente
-- Fondazioni dei Parchi Nazionali
-- Centri locali di riabilitazione della fauna
+Attualmente abbia la possibilità di abbonarsi su YouTube per ricevere:
+- Video esclusivi
+- Video in anteprima
+- connessione sui social
+- Sondaggi privati
 
 **Servizi Professionali:**
 
@@ -370,46 +253,6 @@ Tutti i contenuti creati sotto il brand **mountain&faunalover**, incluse fotogra
 
 ### Contatto per Licenze
 📧 [mattioli.simone.10@gmail.com](mailto:mattioli.simone.10@gmail.com)
-
----
-
-## Domande Frequenti
-
-### Domande Generali
-
-**Quale attrezzatura utilizzate?**
-Utilizziamo sistemi fotografici di livello professionale con obiettivi teleobiettivo adatti alla fotografia naturalistica, insieme ad attrezzatura di stabilizzazione e droni (dove consentito). Le raccomandazioni specifiche sull'attrezzatura variano in base al budget e al livello di esperienza.
-
-**Come vi avvicinate alla fauna senza disturbarla?**
-Manteniamo distanze di sicurezza utilizzando teleobiettivi, ci muoviamo lentamente e in modo prevedibile, evitiamo stagioni riproduttive e aree sensibili, e diamo priorità al comportamento animale rispetto allo scatto. Pazienza e rispetto sono i nostri strumenti principali.
-
-**Organizzate workshop di fotografia o tour?**
-Attualmente, ci concentriamo principalmente sulla creazione di contenuti. Tuttavia, stiamo considerando workshop educativi in futuro. Iscriviti ai nostri canali per rimanere informato su eventuali eventi futuri.
-
-**Posso usare le vostre foto per il mio progetto scolastico?**
-Sì, per scopi educativi con la dovuta attribuzione. Si prega di inviarci un'email con i dettagli sul vostro progetto.
-
-### Domande Tecniche
-
-**Quali impostazioni consigliate per la fotografia naturalistica?**
-Le impostazioni variano molto in base all'illuminazione, alla distanza del soggetto e all'effetto desiderato. In generale: tempi di otturazione veloci (1/1000s+), aperture ampie per l'isolamento del soggetto e ISO automatico per flessibilità. Imparare a leggere la luce e anticipare il comportamento è più importante delle impostazioni specifiche.
-
-**Come trovate la fauna in montagna?**
-Il successo deriva da ricerca, conoscenza locale, comprensione del comportamento animale e delle preferenze di habitat, partenze mattutine, pazienza e rispetto per l'ambiente. Il tempo trascorso a osservare batte il tempo trascorso a camminare.
-
-**Quali permessi servono per filmare nei parchi nazionali?**
-I requisiti variano da parco a parco. Le riprese professionali spesso richiedono permessi, mentre la fotografia occasionale generalmente no. Controllare sempre i regolamenti specifici del parco prima di pianificare un viaggio.
-
-### Domande sulle Collaborazioni
-
-**Accettate prodotti gratuiti per recensioni?**
-Lavoriamo solo con brand che si allineano con i nostri valori di conservazione. Le recensioni di prodotti devono permettere una valutazione onesta. Contattateci con proposte specifiche.
-
-**Potete presentare il mio progetto di conservazione?**
-Siamo sempre interessati a supportare sforzi di conservazione legittimi. Si prega di inviare un'email con i dettagli sul vostro progetto, i suoi obiettivi e come potremmo collaborare.
-
-**Siete disponibili per interventi pubblici?**
-Potenzialmente, a seconda dell'evento, del pubblico e dell'allineamento con la nostra missione. Si prega di contattarci con dettagli specifici.
 
 ---
 
@@ -503,26 +346,6 @@ standard_professionali:
   - verifica_fatti
   - comunicazione_trasparente
 ```
-
----
-
-## Ringraziamenti
-
-### Ispirazione e Gratitudine
-
-Questo progetto non sarebbe possibile senza:
-- I guardaparco e i biologi naturalisti dedicati che proteggono gli ecosistemi alpini
-- Le organizzazioni di conservazione che lavorano instancabilmente per la protezione ambientale
-- I colleghi fotografi naturalisti e creatori di contenuti che danno priorità all'etica e all'educazione
-- Le comunità che vivono nelle regioni montane e mantengono relazioni sostenibili con la natura
-- Tutti coloro che interagiscono e condividono contenuti sulla conservazione
-
-### Ringraziamenti Speciali
-
-- Autorità dei parchi nazionali per l'accesso e la collaborazione
-- Guide locali ed esperti di montagna per la loro conoscenza
-- La community di fotografia naturalistica per ispirazione e supporto
-- Spettatori e follower che rendono questo lavoro significativo e sostenibile
 
 ---
 
