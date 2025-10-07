@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](brackground.jpg)
+![Banner](background.jpg)
 
 ![Fotografia Naturalistica](https://img.shields.io/badge/Focus-Fotografia%20Naturalistica-4CAF50?style=flat-square)
 ![Contenuti Montani](https://img.shields.io/badge/Contenuti-Natura%20Alpina-2196F3?style=flat-square)
